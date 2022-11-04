@@ -1,4 +1,10 @@
 {
+  "users": [
+   "email":"hugo.voga@voga.com",
+   "password":"teste123",
+   "name":"Hugo Teste Json",
+   "id":1
+   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
