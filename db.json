@@ -25,7 +25,10 @@
       "postId": 1
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "users": {
+    "id":1,
+    "name": "typicode",
+    "email": "teste@voga.com",
+    "password": "123"
   }
 }
