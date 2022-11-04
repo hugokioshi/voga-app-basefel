@@ -1,7 +1,7 @@
 {
   "users": [
      {
-       "id":1
+       "id":1,
        "name":"Hugo Teste Json",
        "email":"hugo.voga@voga.com",
        "password":"teste123"                
